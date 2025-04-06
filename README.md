@@ -15,7 +15,17 @@ The following block diagram illustrates the core components of our pipeline:
 - **Super-Resolution**: Second step for upscaling and photorealistic enhancement  
 - **Output**: High-resolution, realistic image
 
-- ## 🧪 Results Demonstration
+## 🚀 Real-ESRGAN for Super-Resolution
+
+In the second stage of our pipeline, we apply **Real-ESRGAN x4+** to further enhance the image quality and sharpness. This step significantly boosts visual fidelity, making the images more photorealistic and suitable for downstream tasks.
+
+- We use [Real-ESRGAN x4+ by Qualcomm](https://huggingface.co/qualcomm/Real-ESRGAN-x4plus), a powerful model for general-purpose 4× super-resolution.  
+- It is especially effective in recovering fine textures and reducing artifacts in generated images.  
+- The integration is modular and can be toggled depending on application needs.
+
+---
+
+## 🧪 Results Demonstration
 
 Below are sample outputs comparing the original synthetic images with their enhanced versions:
 
