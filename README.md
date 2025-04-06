@@ -19,5 +19,5 @@ Below are sample outputs comparing the original synthetic images with their enha
 
 | Input | Enhanced Output |
 |-------|-----------------|
-| ![input1](path_to_input1.png) | ![output1](Assets/Linkedin.png) |
-| ![input2](path_to_input2.png) | ![output2](Assets/Linkedin-1.png) |
+| ![input1](Assets/Linkedin-input.png) | ![output1](Assets/Linkedin.png) |
+| ![input2](Assets/Linkedin-1-input.png) | ![output2](Assets/Linkedin-1.png) |
