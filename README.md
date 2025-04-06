@@ -34,7 +34,10 @@ Further we have also uploaded high resolution refined image results for each of 
 
 Download or explore the ControlNet models used in this project:
 
+- [ControlNet Github Page](https://github.com/lllyasviel/ControlNet)
 - [ControlNet for Canny Edges](https://huggingface.co/lllyasviel/ControlNet)
 - [ControlNet for Depth Maps](https://huggingface.co/lllyasviel/ControlNet-depth)
 - [Custom Trained ControlNet (Coming Soon)](link_to_custom_model)
+
+  
 
