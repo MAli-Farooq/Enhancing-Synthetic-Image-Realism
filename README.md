@@ -21,3 +21,18 @@ Below are sample outputs comparing the original synthetic images with their enha
 |-------|-----------------|
 | ![input1](Assets/Linkedin-input.png) | ![output1](Assets/Linkedin.png) |
 | ![input2](Assets/Linkedin-1-input.png) | ![output2](Assets/Linkedin-1.png) |
+
+Further we have also uploaded high resolution refined image results for each of the weather conditions from VKITTI dataset to drive for viewing purposes. 
+🔗 **[Click here to view more results](https://drive.google.com/drive/folders/1137cEULEMRXd-SP0AJgXaJhO-nSb4cAw?usp=sharing)**
+
+
+
+
+## 🔗 ControlNet Models
+
+Download or explore the ControlNet models used in this project:
+
+- [ControlNet for Canny Edges](https://huggingface.co/lllyasviel/ControlNet)
+- [ControlNet for Depth Maps](https://huggingface.co/lllyasviel/ControlNet-depth)
+- [Custom Trained ControlNet (Coming Soon)](link_to_custom_model)
+
