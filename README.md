@@ -5,7 +5,8 @@ This work focuses on improving the visual fidelity of synthetic images using con
 
 The following block diagram illustrates the core components of our pipeline:
 
-![Pipeline Diagram](/assets/Proposed Methodlogy Block Diagram.png)
+![Pipeline Diagram](assets/Proposed Methodlogy Block Diagram.png)
+![](images/block-diagram-2.png)
 
 **Pipeline Stages:**
 - **Input**: Synthetic image or segmentation map  
