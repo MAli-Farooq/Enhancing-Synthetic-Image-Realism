@@ -6,10 +6,18 @@ This work focuses on improving the visual fidelity of synthetic images using con
 The following block diagram illustrates the core components of our pipeline:
 
 ![Pipeline Diagram](Assets/Proposed-Methodlogy.png)
-![](images/block-diagram-2.png)
 
 **Pipeline Stages:**
 - **Input**: Synthetic image or segmentation map  
 - **ControlNet**: Edge, Depth, and Segmentation map along with Text-prompt guided image refinement  
 - **Super-Resolution**: Second step for upscaling and photorealistic enhancement  
-- **Output**: High-resolution, realistic image 
+- **Output**: High-resolution, realistic image
+
+- ## 🧪 Results Demonstration
+
+Below are sample outputs comparing the original synthetic images with their enhanced versions:
+
+| Input | Enhanced Output |
+|-------|-----------------|
+| ![input1](path_to_input1.png) | ![output1](Assets/Linkedin.png) |
+| ![input2](path_to_input2.png) | ![output2](Assets/Linkedin-1.png) |
